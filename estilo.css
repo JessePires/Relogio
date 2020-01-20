@@ -1,0 +1,38 @@
+body{
+    margin-top: 100px;
+    background: #94a0e2;
+    font: normal 15pt Arial;
+    color: #fff;
+}
+
+header{
+    text-align: center;
+}
+
+section{
+    background: #ffffff;
+    border-radius: 10px;
+    padding: 15px;
+    width: 400px;
+    height: 300px;
+    margin: auto;
+    box-shadow: 5px 5px 10px #00000093;
+}
+
+div{
+    width: 395px;
+    height: 295px;
+    border-radius: 5px;
+    background-image: url(imagens/fotomanha.png);
+    text-align: center;
+}
+
+p#relogio{
+    margin: 0px;
+    font-size: 50px;
+    padding: 110px;
+}
+
+footer{
+    text-align: center;
+}
