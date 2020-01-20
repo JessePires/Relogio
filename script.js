@@ -11,10 +11,9 @@ function relogio(){
 
     if(h >= 0 && h < 12){
 
-        horario.style.backgroundImage = "url('imagens/fotomanha.png')";
         pRelogio.style.color = "#181818";
 
-    }else if(h >= 12 && h < 18){
+    }else if(h >= 12 && h < 20){
 
         horario.style.backgroundImage = "url('imagens/fototarde.png')";
         document.body.style.background = "#b46f36";
