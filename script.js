@@ -28,5 +28,3 @@ function relogio(){
     }
 
 }
-
-relogio(); 
